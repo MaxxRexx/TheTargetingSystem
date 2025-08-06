@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"EngineVersion": "5.0.0",
+	"FriendlyName": "TheTargetingSystemPlugin",
+	"Description": "A plugin for targeting in Unreal Engine.",
+	"Category": "Ibrahim Akinde Plugins",
+	"CreatedBy": "Ibrahim Akinde",
+	"CreatedByURL": "https://www.ibrahimakinde.com",
+	"DocsURL": "https://www.evernote.com/l/AhTBlCPzSFdJHL3LAghtJC-lH_pk0-I8SCw/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f5678e6f0b634987a335e75a2387f8af",
+	"SupportURL": "https://discord.gg/3CbF5Yq",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TheTargetingSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			],
+			"PlatformDenyList": [
+				"IOS",
+				"Android",
+				"TVOS",
+				"Linux"
+			]
+		}
+	]
+}
