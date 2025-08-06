@@ -33,8 +33,7 @@ There are several options for customization available to the user and exposed on
 ### Code Modules
 - TheTargetingSystem - Runtime
 
-### Number of Blueprints: 4
-
+- Number of Blueprints: 4
 - One Example Game Mode
 - Default Third Person Animation Blueprint
 - Default Third Person Character Blueprint (Child of TS_Character)
